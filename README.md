@@ -30,7 +30,7 @@
       uvicorn main:app
       ```
       
-  -  Bravzer orqali __https://api.telegram.org/bot{BotTokeningizni yozing}/getwebhookinfo__ shu urlga murojaat qilib ko'ring, ngrok urlini ko'rsangiz bot ishga tushgan bo'ladi
+  -  Bravzer orqali __https://api.telegram.org/bot{Bot_Tokeningizni_yozing}/getwebhookinfo__ shu urlga murojaat qilib ko'ring, json qaytaradi ichidan "result" ni toping va ngrok urlinigiz bilan solishting hammasi to'g'ri bo'lsa Botingizni tekshirish uchun /start komandasini bering!
 
 
  <hr>
