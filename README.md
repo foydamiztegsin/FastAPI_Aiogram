@@ -20,7 +20,7 @@
       ngrok http 8000
       ```
       
-  - Ngrokni ishga tushirganda  https://2c1f-84-54-92-191.eu.ngrok.io shunga yaqin url tuzib beradi.Urlni oling va main.py faylidagi WEBHOOK_URL  o'zgaruvchisiga quydagi ko'rinishda yozing
+  - Ngrokni ishga tushirganda  https://2c1f-84-54-92-191.eu.ngrok.io  shunga yaqin url tuzib beradi.Urlni oling va main.py faylidagi WEBHOOK_URL  o'zgaruvchisiga quydagi ko'rinishda yozing
       ```
       WEBHOOK_URL= "https://2c1f-84-54-92-191.eu.ngrok.io" + WEBHOOK_PATH
       ```
